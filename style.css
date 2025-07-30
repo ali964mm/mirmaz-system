@@ -1,0 +1,8 @@
+/* style.css */
+body {
+  font-family: 'Cairo', sans-serif;
+}
+
+table th, table td {
+  vertical-align: middle !important;
+}
